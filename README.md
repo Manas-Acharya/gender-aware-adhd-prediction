@@ -138,8 +138,3 @@ gender-aware-adhd-prediction/
 ## Tech Stack
 
 Python, pandas, NumPy, scikit-learn, SciPy, LIME, Matplotlib, seaborn, Jupyter
-
----
-
-**Author:** Manas Acharya, MSc Artificial Intelligence (Distinction), University of Essex
-[LinkedIn](https://linkedin.com/in/manas-acharya-8m2a) · [GitHub](https://github.com/Manas-Acharya)
